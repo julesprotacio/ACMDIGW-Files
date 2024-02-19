@@ -2,7 +2,7 @@ pip install yelp
 
 from yelp.client import Client
 
-MY_API_KEY = "abcefghijklmnopqrstuvqwxy123456789" #  Replace this with your real API key
+MY_API_KEY = "tq0NdgJXyejkmwxQFxtNG7GxhuEctxH79_jh4fqNAnPsi-r9Z38iueLAIe17S_Xtdyq7E3Dcn8odB7KsOp5oLemb1xHNQwWz7Ja-Oc329v7qnBTFbzLLkqoUpwXTZXYx" #  Replace this with your real API key
 
 client = Client(MY_API_KEY)
 
